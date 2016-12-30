@@ -1,0 +1,17 @@
+{
+  "name": "MyNgTests",
+  "description": "ZeOmega Next Generation Tests",
+  "version": "0.0.1",
+  
+  "dependencies": {
+    "protractor": "1.8.0",
+    "underscore": ">=1.5.x",
+    "jasmine-reporters": "1.0.1",
+    "protractor-screenshot-reporter": "0.0.5",
+    "nconf": "0.7.1",
+    "jasmine-params":"0.3.1",
+    "xlsx":"0.8.0",
+    "xml2js":"0.4.16",
+    "jasmine-expect":"2.0.2"
+  }
+}
